@@ -9,11 +9,11 @@ This assignment has a dataset regarding credit cards. It is a binary classificat
 
 -------------------------------------------------------------------------------------
 ## Methodology
-Balancing Dataset
-Creating different types of samples
-Training different machine learning models
-Testing the models
-Analysing the Result obtained
+1. Balancing Dataset <br>
+2. Creating different types of samples <br>
+3. Training different machine learning models <br>
+4. Testing the models <br>
+5. Analysing the Result obtained <br>
 
 ------------------------------------------------------
 ## Anshika Singla
