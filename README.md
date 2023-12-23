@@ -49,5 +49,3 @@ From the table, we can conclude that we achieve maximum accuracy when we apply R
 -------------------------------------------------------------------------------------------
 
 ## Anshika Singla
-## 102003458
-## 3CO18
